@@ -6,10 +6,3 @@
 第457行，把http://game.vbaitong.com/quiz.htm替换成你的微信公众号引导关注页面链接。
 第491和510行，把http://wx.vbaitong.com/game/weidao/替换成你自己的游戏链接。
  
-
-http://wx.vbaitong.com
-
-短网址https://0x9.me/sIKYb
-
-
-https://xueyes.github.io/xueye
